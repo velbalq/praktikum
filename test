@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>praktikum</title>
+</head>
+
+<body>
+
+    <div class="container-body" style="margin-top: 15%; width: max-width; text-align: center;">
+        <h2>Test Praktikum Balqist</h2>
+    </div>
+
+</body>
+
+</html>
